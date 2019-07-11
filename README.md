@@ -1,2 +1,2 @@
-# Dummy-Html-master
-Linking HTML with javascript
+# dummy-html
+Dummy html for examples
